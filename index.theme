@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=base16-default-dark
+Comment=Based on base16-default-dark
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=base16-default-dark
+GtkTheme=base16-default-dark
+IconTheme=base16-default-dark
+MetacityTheme=base16-default-dark
